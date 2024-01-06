@@ -27,6 +27,17 @@
   line-height: 1.875rem;
 }
 
+.container {
+  margin: 0 13.3rem;
+}
+
+.text-heading {
+  color: #181818;
+  font-size: 2.1875rem;
+  font-weight: 700;
+  margin-bottom: 1.88rem;
+}
+
 /* main css */
 
 /* header section */
@@ -109,4 +120,18 @@ nav .menu li a {
 
 .buttons {
   margin-top: 1.8rem;
+}
+
+/* about me section */
+.about-me {
+  text-align: center;
+  background-color: #fff8f3;
+  margin-top: 8.13rem;
+  padding: 8.19rem 9.75rem;
+}
+.about-info {
+  margin-top: 1.88rem;
+  display: flex;
+  gap: 3.18rem;
+  justify-content: center;
 }
