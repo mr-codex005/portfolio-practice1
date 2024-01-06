@@ -26,6 +26,11 @@
   font-weight: 400;
   line-height: 1.875rem;
 }
+.details-text2 {
+  color: #757575;
+  font-size: 1rem;
+  font-weight: 400;
+}
 
 .container {
   margin: 8.13rem 13.3rem;
@@ -171,4 +176,42 @@ nav .menu li a {
 .skils h4 {
   margin-bottom: 1.25rem;
   margin-top: 1.88rem;
+}
+
+/* resume section  */
+
+.resume-section .text-heading {
+  text-align: center;
+}
+
+.resume {
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  margin-top: 7rem;
+}
+
+.experience section,
+.education section {
+  margin: 1.8rem auto;
+}
+
+.heading-3 {
+  color:#474747;
+  font-size: 1.875rem;
+  font-weight: 700;
+}
+
+.resume .title{
+  color: #474747;
+font-size: 1.5625rem;
+font-weight: 700;
+}
+
+.resume .sub-title{
+  color:#757575;
+font-size: 1.25rem;
+font-weight: 600;
+margin-top: 0.6rem;
+margin-bottom: 1.25rem;
 }
