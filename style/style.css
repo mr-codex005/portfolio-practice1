@@ -151,9 +151,11 @@ nav .menu li a {
 .what-do-i-do p {
   text-align: center;
 }
+
 .skils {
   display: flex;
   gap: 1.5rem;
+  margin-top: 3rem;
 }
 
 .skill {
