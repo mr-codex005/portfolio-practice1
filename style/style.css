@@ -55,9 +55,9 @@
 
 header {
   background-color: #fff8f3;
-  background-image: url("../image/header_bg.png");
+  background-image: url("../image/header_bg.png"), url("../image/developer.png");
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: bottom right, center left;
 }
 
 header nav {
